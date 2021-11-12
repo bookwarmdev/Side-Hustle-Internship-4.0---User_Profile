@@ -20,4 +20,3 @@ Side Husstle Project 3, A Profile Page
 ![](assets/screenshort/emulator.png)
   <h3>iOS View </h3>
 ![](assets/screenshort/Simulator.png)
- 
